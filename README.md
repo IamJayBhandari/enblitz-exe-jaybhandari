@@ -7,7 +7,11 @@ completed this - https://github.com/enblitz/devops/blob/main/module-08-Terraform
 main.tf run commands
 
 terraform fmt
+
 terraform init
+
 terraform validate
+
 terraform plan
+
 terraform apply
